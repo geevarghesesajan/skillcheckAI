@@ -1,3 +1,6 @@
+**live demo app**
+https://skillcheckai.streamlit.app
+
 # SkillCheck AI
 
 SkillCheck AI is a simple AI tool that checks how well a resume matches a job description.
